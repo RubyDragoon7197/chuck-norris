@@ -1,0 +1,16 @@
+.detalles {
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.detalles p {
+  font-size: 1.1rem;
+}
+
+.detalles small {
+  color: #666;
+}

@@ -1,0 +1,26 @@
+.original {
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.original button {
+  background: #0b6bcb;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.original button:hover {
+  background: #094f93;
+}
+
+.original p {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
